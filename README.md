@@ -1,14 +1,17 @@
-# E-Commerce Back End
+# E-Commerce Backend
 
-![GitHub repo size](https://img.shields.io/github/repo-size/username/repo-name)
-![GitHub contributors](https://img.shields.io/github/contributors/username/repo-name)
-![GitHub stars](https://img.shields.io/github/stars/username/repo-name?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/repo-name?style=social)
-![GitHub issues](https://img.shields.io/github/issues/username/repo-name)
-![GitHub](https://img.shields.io/github/license/username/repo-name)
-![GitHub last commit](https://img.shields.io/github/last-commit/username/repo-name)
+![GitHub repo size](https://img.shields.io/github/repo-size/Hammarou/E-Commerce_Backend)
+![GitHub contributors](https://img.shields.io/github/contributors/Hammarou/E-Commerce_Backend)
+![GitHub stars](https://img.shields.io/github/stars/Hammarou/E-Commerce_Backend?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Hammarou/E-Commerce_Backend?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Hammarou/E-Commerce_Backend)
+![GitHub](https://img.shields.io/github/license/Hammarou/E-Commerce_Backend)
+![GitHub last commit](https://img.shields.io/github/last-commit/Hammarou/E-Commerce_Backend)
 
 ## Description
+
+-Greetings!
+
 This is a back-end for an e-commerce site built with Node.js, Express, Sequelize, and PostgreSQL. It provides RESTful API endpoints for managing categories, products, and tags with CRUD operations with associations between entities.
 
 ## Table of Contents
@@ -151,4 +154,4 @@ If you'd like to contribute to this project, feel free to create a fork, make yo
 
 For any questions, please reach out via:
 
-- GitHub: [Your GitHub Username](https://github.com/YourGitHubUsername)
+- GitHub: [Emeka Okpala](https://github.com/Hammarou)
