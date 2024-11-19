@@ -30,7 +30,7 @@ router.get('/:id', (req, res) => {
       res.status(404).json({ message: 'No category found with that id' });
       return;
     }
-    res.status(200).json(result);
+    res.status(200).json(category);
   })
   .catch((err) => {
     // Log any errors to the console and send a 500 status with error details
@@ -65,7 +65,7 @@ router.put('/:id', (req, res) => {
       res.status(404).json({ message: 'No category found with that id' });
       return;
     }
-    res.status(200).json(result);
+    res.status(200).json(category);
   })
   .catch((err) => {
     console.error(err);
@@ -85,7 +85,7 @@ router.delete('/:id', (req, res) => {
       return;
     }
     // Confirm deletion with a success message
-    res.status(200).json(result);
+    res.status(200).json(category);
   })
   .catch((err) => {
     console.error(err);
