@@ -14,6 +14,8 @@
 
 This is a back-end for an e-commerce site built with Node.js, Express, Sequelize, and PostgreSQL. It provides RESTful API endpoints for managing categories, products, and tags with CRUD operations with associations between entities.
 
+![screenshot1](/assets/screenshot.png)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Features](#features)
@@ -21,9 +23,13 @@ This is a back-end for an e-commerce site built with Node.js, Express, Sequelize
 - [Database Setup](#database-setup)
 - [Routes](#routes)
 - [Technologies](#technologies)
+- [Demonstration Video](#demonstration-video)
+- [GitHub Deployment Location (HTTPS)](#github-deployment-location-https)
+- [GitHub Repository Location (HTTPS)](#github-repository-location-https)
+- [Contribution](#contribution)
 - [License](#license)
-- [Contributing](#contributing)
-- [Questions](#questions)
+
+
 
 ## Features
 
@@ -44,13 +50,13 @@ This is a back-end for an e-commerce site built with Node.js, Express, Sequelize
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Hammarou/E-Commerce_Backend
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <project-directory>
+   cd E-Commerce_Backend
    ```
 
 3. Install dependencies:
@@ -127,7 +133,7 @@ The database is created using Sequelize models. It consists of the following tab
 
 ## Technologies
 
-- Node.js
+- **Node.js
 - Express.js
 - Sequelize (ORM)
 - PostgreSQL
@@ -140,18 +146,30 @@ A walkthrough video demonstrating the functionality of this e-commerce back-end 
 - Using the API routes for categories, products, and tags
 - Demonstrating CRUD operations with Insomnia
 
-[Watch the Demonstration Video](<link-to-your-video>)
+[Watch the Demonstration Video](https://drive.google.com/file/d/1uCzaQX-iPp1yRDZYfuTvGPjI0d2exZw-/view?usp=drive_link)
+
+
+## GitHub Deployment Location (HTTPS)
+
+N/A
+
+* Note: The **E-Commerce Backend** is a node.js command line interface (CLI) application. Therefore, it cannot be hosted through an internet browser. 
+
+
+## GitHub Repository Location (HTTPS)
+
+https://github.com/Hammarou/E-Commerce_Backend
+
+
+## Credits
+
+N/A
+
+## Contribution
+
+Feel free to fork this application, submit issues, or make pull requests if you have suggestions or improvements. Contributions are welcome!
 
 ## License
 
-This project is licensed under the MIT License.
+This application is licensed under the [MIT](LICENSE)  License.
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to create a fork, make your changes, and submit a pull request.
-
-## Questions
-
-For any questions, please reach out via:
-
-- GitHub: [Emeka Okpala](https://github.com/Hammarou)

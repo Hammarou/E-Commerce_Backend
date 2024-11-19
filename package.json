@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "watch": "nodemon server.js",
-    "seed": "node seeds/index.js",
-    "schema": "source .env && PGPASSWORD=$DB_PASSWORD && psql -U $DB_USER -d $DB_NAME -f db/schema.sql"
+    "seed": "node seeds/index.js"
   },
   "repository": {
     "type": "git",
